@@ -1,0 +1,15 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/vaisseau.png</file>
+    <file>images/coeur.png</file>
+    <file>images/ennemi.gif</file>
+    <file>images/lightning.png</file>
+    <file>images/weapon.png</file>
+    <file>images/space.png</file>
+	<file>images/spaceG.png</file>
+    <file>sound/bg.mp3</file>
+    <file>images/commentJouer.png</file>
+    <file>images/iconSSA.ico</file>
+	<file>images/APropos.png</file>
+</qresource>
+</RCC>

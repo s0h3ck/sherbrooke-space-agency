@@ -1,0 +1,88 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.so.*
+*.out
+*.dylib
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.ko
+*.obj
+*.elf
+
+# Libraries #
+#############
+*.lib
+*.a
+*.la
+*.lo
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# Visual Studio #
+#################
+*.pdb
+*.aps
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.sbr
+*.opensdf
+*.sdf
+*.v12.suo
+*.vcxproj.user
+*.vcxproj
+*.vcxproj.filters
+
+# Qt Creator #
+##############
+*.pro.user
