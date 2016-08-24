@@ -24,6 +24,6 @@ Logiciel utilisé : Visual Studio 2013 et Qt Creator pour les autres platformes
   Mise à jour le : 14-04-2016
 </pre>
 
-<p>Pour plus de détails à propos de Sherbrooke Space Agency <a href="">ici</a> (ce lien pointe vers notre rapport de fin de projet pour la partie informatique et présente le jeu ainsi que l'équipe). Nous étions une équipe de neuf personnes, cinq en génie électrique et quatre en génie informatique. Vous pouvez essayer le jeu chez vous, toutefois il ne fonctionnera pas avec les phonèmes, car vous n'avez pas les pièces électroniques fournies par l'université de Sherbrooke (UdeS).</p>
+<p>Pour plus de détails à propos de Sherbrooke Space Agency <a href="">ici</a> (ce lien pointe vers notre rapport de fin de projet pour la partie informatique et présente le jeu ainsi que l'équipe). Nous étions une équipe de neuf personnes, cinq en génie électrique et quatre en génie informatique. Vous pouvez essayer le jeu chez vous, toutefois il ne fonctionnera pas avec les phonèmes, car vous n'avez pas les pièces électroniques fournies par l'Université de Sherbrooke (UdeS).</p>
 
 Amusez-vous bien :)
