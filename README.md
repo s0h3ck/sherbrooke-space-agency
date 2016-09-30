@@ -29,4 +29,7 @@ Logiciel utilisé : Visual Studio 2013 et Qt Creator pour les autres platformes
 Amusez-vous bien :)
 
 <h1 id="preview">Preview / Aperçu </h1>
+<img src="/additionals/images/menu.PNG" alt="Menu">
+<img src="/additionals/images/how_to_play.PNG" alt="How to play">
+<img src="/additionals/images/capture.PNG" alt="Gameplay">
 
