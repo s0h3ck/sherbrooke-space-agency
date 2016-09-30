@@ -9,7 +9,7 @@ Software used : Visual Studio 2013 and Qt Creator on other platforms
   Last update : 14-04-2016
 </pre>
 
-<p>More details about Sherbrooke Space Agency <a href="">here</a> (this link show you our computer engineer report only which might give you some interesting info about the game and us. We were a team of nine people, five in Electrical Engineering and four in Computer Engineering. You can try the game at home, but it won't work with the phonemes, because you don't have the electronics components provided by Sherbrooke University.</p>
+<p>More details about Sherbrooke Space Agency <a href="#preview">click here</a>. We were a team of nine people, five in Electrical Engineering and four in Computer Engineering. You can try the game at home, but it won't work with the phonemes, because you don't have the electronics components provided by the University of Sherbrooke.</p>
 
 Enjoy :)
 
@@ -24,6 +24,9 @@ Logiciel utilisé : Visual Studio 2013 et Qt Creator pour les autres platformes
   Mise à jour le : 14-04-2016
 </pre>
 
-<p>Pour plus de détails à propos de Sherbrooke Space Agency <a href="">ici</a> (ce lien pointe vers notre rapport de fin de projet pour la partie informatique et présente le jeu ainsi que l'équipe). Nous étions une équipe de neuf personnes, cinq en génie électrique et quatre en génie informatique. Vous pouvez essayer le jeu chez vous, toutefois il ne fonctionnera pas avec les phonèmes, car vous n'avez pas les pièces électroniques fournies par l'Université de Sherbrooke (UdeS).</p>
+<p>Pour plus de détails à propos de Sherbrooke Space Agency <a href="#preview">cliquez ici</a>. Nous étions une équipe de neuf personnes, cinq en génie électrique et quatre en génie informatique. Vous pouvez essayer le jeu chez vous, toutefois il ne fonctionnera pas avec les phonèmes, car vous n'avez pas les pièces électroniques fournies par l'Université de Sherbrooke (UdeS).</p>
 
 Amusez-vous bien :)
+
+<h1 id="preview">Preview / Aperçu </h1>
+
